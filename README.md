@@ -12,8 +12,8 @@ I used these scripts to fill the gaps that I saw in docker CLI just for myself. 
 
 ### Usage
 
-I hope script names are descriptive enough, but you should conside having a look at the contents before using them.
-
-Hope they also help you :)
+I hope script names are descriptive enough, but some scripts has comment lines inside which describes purpose and usage. So you should consider having a look at the contents of the scripts before using them.
 
 Plesase feel free to customize or improve them and if you wish send me a merge reuqest.
+
+Hope they also help you :)
